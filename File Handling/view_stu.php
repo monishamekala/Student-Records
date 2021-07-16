@@ -13,10 +13,11 @@
 	<!-------------------W3 animations-------------------->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	<style>
 		.container{
-			margin-top: 10%;
+			margin-top: 12%;
 		}
 		.fontstyle{
 			font-family: 'Acme', sans-serif;
@@ -53,7 +54,7 @@
 				fclose($h); 
 				$lst_of_stu_rs = array_filter($lst_of_students);
 			?>
-			<p style="text-align: center; font-size: 30px;">Student Details</p>
+			<p style="padding-left: 40%;display: inline-flex; font-size:35px; color:#126e82;"><i class="fa fa-address-card" style="color: #126e82; font-size:60px;"></i> &nbsp; &nbsp;Student Details</p>
 			<table class="table table-borderless table-hover table-dark"style="background-image:linear-gradient(#248da3, #2c4b52);">
     			<thead>
 				    <tr style="text-align: left;">
