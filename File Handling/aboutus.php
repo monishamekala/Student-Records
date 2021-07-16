@@ -50,7 +50,7 @@
 	    			<p style="font-size: 18px;">'Student Records' is a single platform for stuents to upload their assignments, view their details and teachers can add student details, update student details, delete student details and search for a student record. The assignments submitted by the students are stored in the project folder.<br>Apart from this, in future we also want to add feature wherein faculty can also upload notes for a particular subject, semester and branch. On the other side the students can download notes. This overall idea, we got because of current scenerio, where evrything is happening online. It is hectic for faculty to create google form for every subject individually and also for students its quite complicated to submit assignments. But having a single platform like this, which is also handy can reduce the complexity.</p>
 	    			<p style="font-size: 18px;">The website is built with PHP, HTML, CSS, Javascript, Bootstrap.</p>
 	    			<p style="font-size: 18px;">The file structure concepts included are <u>Primary indexing</u> and <u>reclaiming the spaces</u>.</p>
-	    			<small style="font-family: 'Uchen', serif;font-size: 12px; text-align:  center;position:absolute;left: 38%; bottom: 5px;">Credits- Monisha M, Harshitha K M</small>
+	    			<small style="font-family: 'Uchen', serif;font-size: 12px; text-align:  center;position:absolute;left: 42%; bottom: 5px;">Credits- Monisha M, Harshitha K M</small>
 		    	</div>
 	    	</div>
 		</div>
